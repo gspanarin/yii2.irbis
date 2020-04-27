@@ -6,4 +6,7 @@ $i = irbis.class();
 
 print '~';
 
+
+print 'test.php';
+
 ?>
